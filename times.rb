@@ -1,5 +1,7 @@
-def using_times(times)
-	loop
+def using_times(phrase)
+	7.times do
+	  puts "#{phrase}"
+	end
 end
 
 
